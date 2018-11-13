@@ -1,0 +1,5 @@
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.ServiceLibrary\bin\Release\OA.ServiceLibrary.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.ServiceLibrary\bin\Release\OA.ServiceLibrary.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.ServiceLibrary\obj\Release\OA.ServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.ServiceLibrary\obj\Release\OA.ServiceLibrary.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.ServiceLibrary\obj\Release\OA.ServiceLibrary.pdb

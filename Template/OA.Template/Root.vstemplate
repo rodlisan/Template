@@ -1,0 +1,45 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="ProjectGroup">
+  <TemplateData>
+    <Name>Onion Architecture</Name>
+    <Description>Onion Architecture Template by Lisandro Rodriguez</Description>
+    <ProjectType>CSharp</ProjectType>
+    <TemplateGroupID>Custom Templates</TemplateGroupID>
+    <NumberOfParentCategoriesToRollUp>1</NumberOfParentCategoriesToRollUp>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>false</CreateNewFolder>
+    <DefaultName>OA</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <Icon>OA_Preview.png</Icon>
+    <PreviewImage>OA.png</PreviewImage>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <PromptForSaveOnCreation>true</PromptForSaveOnCreation>
+    <RequiredFrameworkVersion>4.0</RequiredFrameworkVersion>
+  </TemplateData>
+  <TemplateContent>
+  <ProjectCollection>
+	<SolutionFolder Name="Core">
+      <ProjectTemplateLink ProjectName="$safeprojectname$.Core">
+        OA.Core\Core.vstemplate
+      </ProjectTemplateLink>
+	</SolutionFolder>
+	<SolutionFolder Name="Infrastructure">
+      <ProjectTemplateLink ProjectName="$safeprojectname$.DataAccess">
+        OA.DataAccess\DataAccess.vstemplate
+      </ProjectTemplateLink>
+      <ProjectTemplateLink ProjectName="$safeprojectname$.ServiceLibrary">
+        OA.ServiceLibrary\ServiceLibrary.vstemplate
+      </ProjectTemplateLink>
+  </SolutionFolder>
+	<SolutionFolder Name="Client">
+      <ProjectTemplateLink ProjectName="$safeprojectname$.MVC">
+        OA.MVC\MVC.vstemplate
+      </ProjectTemplateLink>
+  </SolutionFolder>
+  </ProjectCollection>
+  </TemplateContent>
+  <WizardExtension>
+    <Assembly>OA.Wizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b82c05d7824f50cb</Assembly>
+    <FullClassName> OA.Wizard.RootWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>

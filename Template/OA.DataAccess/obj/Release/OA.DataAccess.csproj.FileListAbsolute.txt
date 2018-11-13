@@ -1,0 +1,7 @@
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\bin\Release\OA.DataAccess.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\bin\Release\OA.DataAccess.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\bin\Release\OA.Core.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\bin\Release\OA.Core.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\obj\Release\OA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\obj\Release\OA.DataAccess.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.DataAccess\obj\Release\OA.DataAccess.pdb

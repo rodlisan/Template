@@ -1,0 +1,5 @@
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.Core\bin\Debug\OA.Core.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.Core\bin\Debug\OA.Core.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.Core\obj\Debug\OA.Core.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.Core\obj\Debug\OA.Core.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.Core\obj\Debug\OA.Core.csprojResolveAssemblyReference.cache

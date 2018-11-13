@@ -1,0 +1,20 @@
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\OA.png
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\OA.Wizard.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\ProjectTemplates\CSharp\Custom Templates\OA.zip
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\OA.VSIX.vsix
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\extension.vsixmanifest
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Release\OA.VSIX.csprojResolveAssemblyReference.cache
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Release\OA.VSIX.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Release\OA.VSIX.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Release\extension.vsixmanifest
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Release\OA_Preview.png
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\OA.png
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\OA.Wizard.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\OA_Preview.png
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\ProjectTemplates\CSharp\Custom Templates\OA.zip
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\OA.VSIX.vsix
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\bin\Release\extension.vsixmanifest
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\obj\Release\OA.VSIX.csprojResolveAssemblyReference.cache
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\obj\Release\OA.VSIX.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\obj\Release\OA.VSIX.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\Template\OA.VSIX\obj\Release\extension.vsixmanifest

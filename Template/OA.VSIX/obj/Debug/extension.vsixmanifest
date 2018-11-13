@@ -1,0 +1,17 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="OA..d84baba5-5e6b-4ef1-becf-80cbdb15830d" Version="1.0" Language="en-US" Publisher="Lisandro Rodriguez" />
+    <DisplayName>oNION Onion Architecture</DisplayName>
+    <Description xml:space="preserve">Onion Architecture template</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="ProjectTemplates\CSharp\Custom Templates\OA.Wizard.dll" AssemblyName="OA.Wizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b82c05d7824f50cb" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="ProjectTemplates" />
+  </Assets>
+</PackageManifest>

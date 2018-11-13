@@ -1,0 +1,5 @@
+C:\Users\Lizmon\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lisandro Rodriguez\Onion Architecture\1.0\\extension.vsixmanifest
+C:\Users\Lizmon\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lisandro Rodriguez\Onion Architecture\1.0\\OA.png
+C:\Users\Lizmon\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lisandro Rodriguez\Onion Architecture\1.0\\OA.Wizard.dll
+C:\Users\Lizmon\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lisandro Rodriguez\Onion Architecture\1.0\ProjectTemplates\CSharp\Custom Templates\\OA.zip
+C:\Users\Lizmon\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Lisandro Rodriguez\Onion Architecture\1.0\\OA_Preview.png

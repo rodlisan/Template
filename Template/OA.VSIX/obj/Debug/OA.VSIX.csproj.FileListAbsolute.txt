@@ -1,0 +1,8 @@
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Debug\OA.VSIX.vsix
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Debug\extension.vsixmanifest
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Debug\OA.VSIX.csprojResolveAssemblyReference.cache
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Debug\OA.VSIX.dll
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Debug\OA.VSIX.pdb
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\obj\Debug\extension.vsixmanifest
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Debug\ProjectTemplates\CSharp\Custom Templates\OA.zip
+C:\Users\Lizmon\Documents\Visual Studio 2015\Projects\Template\OA.VSIX\bin\Debug\ProjectTemplates\CSharp\Custom Templates\OA.Wizard.dll
